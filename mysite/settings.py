@@ -84,7 +84,7 @@ DATABASES = {
         'HOST': '192.168.99.102',
         'NAME': 'blog',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'bk@321',
 
     }
 }
